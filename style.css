@@ -1,0 +1,21 @@
+div{
+    width: 50%;
+    border-width: 15px;
+    border-style: solid;
+    background-color: aqua;
+    border-color: purple;
+    padding: 40px;
+    padding-top: 60px;
+    padding-left: 70px;
+    overflow: scroll;
+    border-radius: 10%;
+    box-sizing: border-box;
+    height: 150px;
+    a{
+        text-decoration: none;
+    }
+    
+   
+    
+    
+}
